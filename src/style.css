@@ -49,6 +49,7 @@ h1 {
   body{
     max-width: 800px;
     margin: 60px auto;
+    background-image: url("../images/background.jpg");
   }
   .primary-link {
     border-radius: 4px;
