@@ -59,4 +59,6 @@ h1 {
     box-shadow: var(--box-shadow);
     color: white;
   }
-  
+  .hero {
+    text-align: center;
+    padding: 160px 10px;}
